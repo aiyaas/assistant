@@ -2,10 +2,7 @@
 <img src="favicon.ico" alt="icon" />
 
 Project `Web` chat with `AI` model for Chinese language version `zh-CN` after its old version using English `en-US`.
-<br />Visit the deployed website here 
-```js
-https://aiyaas.github.io/assistant/#
-```
+<br />Visit the deployed website here
 
 # What we update 
 - We changed and added Chinese language
